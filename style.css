@@ -4,11 +4,11 @@
   background-color: lightgray;
 }
 
-.all-browsers > h2, .browser {
+.all-browsers > h2, .browser, .article-value {
   margin: 10px;
   padding: 5px;
 }
-.browser > h3, .browser > p {
+.browser > h3, .browser > p, .article-value > h3, .article-value > p {
   margin: 4px;
   font-size: 90%;
   background-color: white;
